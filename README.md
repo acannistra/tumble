@@ -1,6 +1,3 @@
-## tumbleplate
-Tumbleplate Theme (updated to version 1.1)
+#tumble
 
-The tumbleplate theme was created for tumblr designers and developers to use as a basis to each new project they create. The theme is simple, optimized for speed, and based on HTML5. No frills all skills!
-
-Fork or download at [http://www.tumbleplate.com](http://www.tumbleplate.com)
+This is a personal website Tumblr theme developed by Tony Cannistra, inspired by [Bijan Sabet's](http://www.bijansabet.com) personal website. 
